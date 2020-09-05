@@ -1,0 +1,13 @@
+{
+  "cols": [
+        {"id":"1","label":"Tenant","pattern":"","type":"string"},
+        {"id":"2","label":"Building","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Mega Plaza","f":null},{"v":3,"f":null}]},
+        {"c":[{"v":"Mega City","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Mega Mall","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Reliance","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Katangi","f":null},{"v":2,"f":null}]}
+      ]
+}

@@ -1,0 +1,795 @@
+To: marketing@shiloahmega.com
+Subject: New Tenancies in Process
+MIME-Version: 1.0
+Content-type:text/html;charset=iso-8859-1
+From:MEGA ERP PMS
+Cc: dipak@shiloahmega.com,mitesh@shiloahmega.com,arulraj@shiloahmega.com,jacobshavia@gmail.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><title></title><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+/* Mobile-specific Styles */
+@media only screen and (max-device-width: 480px) { 
+table[class=w0], td[class=w0] { width: 0 !important; }
+table[class=w10], td[class=w10], img[class=w10] { width:10px !important; }
+table[class=w15], td[class=w15], img[class=w15] { width:5px !important; }
+table[class=w30], td[class=w30], img[class=w30] { width:10px !important; }
+table[class=w60], td[class=w60], img[class=w60] { width:10px !important; }
+table[class=w125], td[class=w125], img[class=w125] { width:80px !important; }
+table[class=w130], td[class=w130], img[class=w130] { width:55px !important; }
+table[class=w140], td[class=w140], img[class=w140] { width:90px !important; }
+table[class=w160], td[class=w160], img[class=w160] { width:180px !important; }
+table[class=w170], td[class=w170], img[class=w170] { width:100px !important; }
+table[class=w180], td[class=w180], img[class=w180] { width:80px !important; }
+table[class=w195], td[class=w195], img[class=w195] { width:80px !important; }
+table[class=w220], td[class=w220], img[class=w220] { width:80px !important; }
+table[class=w240], td[class=w240], img[class=w240] { width:180px !important; }
+table[class=w255], td[class=w255], img[class=w255] { width:185px !important; }
+table[class=w275], td[class=w275], img[class=w275] { width:135px !important; }
+table[class=w280], td[class=w280], img[class=w280] { width:135px !important; }
+table[class=w300], td[class=w300], img[class=w300] { width:140px !important; }
+table[class=w325], td[class=w325], img[class=w325] { width:95px !important; }
+table[class=w360], td[class=w360], img[class=w360] { width:140px !important; }
+table[class=w410], td[class=w410], img[class=w410] { width:180px !important; }
+table[class=w470], td[class=w470], img[class=w470] { width:200px !important; }
+table[class=w580], td[class=w580], img[class=w580] { width:280px !important; }
+table[class=w640], td[class=w640], img[class=w640] { width:300px !important; }
+table[class*=hide], td[class*=hide], img[class*=hide], p[class*=hide], span[class*=hide] { display:none !important; }
+table[class=h0], td[class=h0] { height: 0 !important; }
+p[class=footer-content-left] { text-align: center !important; }
+#headline p { font-size: 30px !important; }
+.article-content, #left-sidebar{ -webkit-text-size-adjust: 90% !important; -ms-text-size-adjust: 90% !important; }
+.header-content, .footer-content-left {-webkit-text-size-adjust: 80% !important; -ms-text-size-adjust: 80% !important;}
+img { height: auto; line-height: 100%;}
+ } 
+/* Client-specific Styles */
+#outlook a { padding: 0; }	/* Force Outlook to provide a "view in browser" button. */
+body { width: 100% !important; }
+.ReadMsgBody { width: 100%; }
+.ExternalClass { width: 100%; display:block !important; } /* Force Hotmail to display emails at full width */
+/* Reset Styles */
+/* Add 100px so mobile switch bar doesn"t cover street address. */
+body { background-color: #ececec; margin: 0; padding: 0; }
+img { outline: none; text-decoration: none; display: block;}
+br, strong br, b br, em br, i br { line-height:100%; }
+h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6 a:active {	color: red !important; }
+/* Preferably not the same color as the normal header link color.  There is limited support for psuedo classes in email clients, this was added just for good measure. */
+h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited { color: purple !important; }
+/* Preferably not the same color as the normal header link color. There is limited support for psuedo classes in email clients, this was added just for good measure. */  
+table td, table tr { border-collapse: collapse; }
+.yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited, .yshortcuts a:hover, .yshortcuts a span {
+color: black; text-decoration: none !important; border-bottom: none !important; background: none !important;
+}	/* Body text color for the New Yahoo.  This example sets the font of Yahoo"s Shortcuts to black. */
+/* This most probably won"t work in all email clients. Don"t include <code _tmplitem="64" > blocks in email. */
+code {
+  white-space: normal;
+  word-break: break-all;
+}
+#background-table { background-color: #ececec; }
+/* Webkit Elements */
+#top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px 0px 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing: antialiased; background-color: #618442; color: #ede899; }
+#top-bar a { font-weight: bold; color: #ede899; text-decoration: none;}
+#footer { border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px 6px 6px; -webkit-border-radius:0px 0px 6px 6px; -webkit-font-smoothing: antialiased; }
+/* Fonts and Content */
+body, td { font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; }
+.header-content, .footer-content-left, .footer-content-right { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; }
+/* Prevent Webkit and Windows Mobile platforms from changing default font sizes on header and footer. */
+.header-content { font-size: 12px; color: #ede899; }
+.header-content a { font-weight: bold; color: #ede899; text-decoration: none; }
+#headline p { color: #ede899; font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; font-size: 36px; text-align: center; margin-top:0px; margin-bottom:30px; }
+#headline p a { color: #ede899; text-decoration: none; }
+.article-title { font-size: 18px; line-height:24px; color: #e97900; font-weight:bold; margin-top:0px; margin-bottom:18px; font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; }
+.article-title a { color: #e97900; text-decoration: none; }
+.article-title.with-meta {margin-bottom: 0;}
+.article-meta { font-size: 13px; line-height: 20px; color: #ccc; font-weight: bold; margin-top: 0;}
+.article-content { font-size: 13px; line-height: 18px; color: #444444; margin-top: 0px; margin-bottom: 18px; font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; }
+.article-content a { color: #e97900; font-weight:bold; text-decoration:none; }
+.article-content img { max-width: 100% }
+.article-content ol, .article-content ul { margin-top:0px; margin-bottom:18px; margin-left:19px; padding:0; }
+.article-content li { font-size: 13px; line-height: 18px; color: #444444; }
+.article-content li a { color: #e97900; text-decoration:underline; }
+.article-content p {margin-bottom: 15px;}
+.footer-content-left { font-size: 12px; line-height: 15px; color: #e2e2e2; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-left a { color: #ede899; font-weight: bold; text-decoration: none; }
+.footer-content-right { font-size: 11px; line-height: 16px; color: #e2e2e2; margin-top: 0px; margin-bottom: 15px; }
+.footer-content-right a { color: #ede899; font-weight: bold; text-decoration: none; }
+#footer { background-color: #618442; color: #e2e2e2; }
+#footer a { color: #ede899; text-decoration: none; font-weight: bold; }
+#permission-reminder { white-space: normal; }
+#street-address { color: #ede899; white-space: normal; }
+table.gridtable a:link {
+	color: #666;
+	font-weight: bold;
+	text-decoration:none;
+}
+table.gridtable a:visited {
+	color: #999999;
+	font-weight:bold;
+	text-decoration:none;
+}   
+table.gridtable a:active,
+table.gridtable a:hover {
+	color: #bd5a35;
+	text-decoration:underline;
+}
+table.gridtable {
+	font-family:Arial, Helvetica, sans-serif;
+	color:#666;
+	font-size:12px;
+	text-shadow: 1px 1px 0px #fff;
+	background:#eaebec;
+	margin:20px;
+	border:#ccc 1px solid;
+
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+
+	-moz-box-shadow: 0 1px 2px #d1d1d1;
+	-webkit-box-shadow: 0 1px 2px #d1d1d1;
+	box-shadow: 0 1px 2px #d1d1d1;
+}
+table.gridtable th {
+	padding:21px 25px 22px 25px;
+	border-top:1px solid #fafafa;
+	border-bottom:1px solid #e0e0e0;
+
+	background: #ededed;
+	background: -webkit-gradient(linear, left top, left bottom, from(#ededed), to(#ebebeb));
+	background: -moz-linear-gradient(top,  #ededed,  #ebebeb);
+}
+table.gridtable th:first-child{
+	text-align: left;
+	padding-left:20px;
+}
+table.gridtable tr:first-child th:first-child{
+	-moz-border-radius-topleft:3px;
+	-webkit-border-top-left-radius:3px;
+	border-top-left-radius:3px;
+}
+table.gridtable tr:first-child th:last-child{
+	-moz-border-radius-topright:3px;
+	-webkit-border-top-right-radius:3px;
+	border-top-right-radius:3px;
+}
+table.gridtable tr{
+	text-align: center;
+	padding-left:20px;
+}
+table.gridtable tr td:first-child{
+	text-align: left;
+	padding-left:20px;
+	border-left: 0;
+}
+table.gridtable tr td {
+	padding:18px;
+	border-top: 1px solid #ffffff;
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+	
+	background: #fafafa;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fbfbfb), to(#fafafa));
+	background: -moz-linear-gradient(top,  #fbfbfb,  #fafafa);
+}
+table.gridtable tr.even td{
+	background: #f6f6f6;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f8f8f8), to(#f6f6f6));
+	background: -moz-linear-gradient(top,  #f8f8f8,  #f6f6f6);
+}
+table.gridtable tr:last-child td{
+	border-bottom:0;
+}
+table.gridtable tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:3px;
+	-webkit-border-bottom-left-radius:3px;
+	border-bottom-left-radius:3px;
+}
+table.gridtable tr:last-child td:last-child{
+	-moz-border-radius-bottomright:3px;
+	-webkit-border-bottom-right-radius:3px;
+	border-bottom-right-radius:3px;
+}
+table.gridtable tr:hover td{
+	background: #f2f2f2;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#f0f0f0));
+	background: -moz-linear-gradient(top,  #f2f2f2,  #f0f0f0);	
+}
+
+</style>
+<!--[if gte mso 9]>
+<style _tmplitem="64" >
+.article-content ol, .article-content ul {
+   margin: 0 0 0 24px;
+   padding: 0;
+   list-style-position: inside;
+}
+</style>
+<![endif]--></head><body><table width="100%" cellpadding="0" cellspacing="0" border="0" id="background-table">
+	<tbody><tr>
+		<td align="center" bgcolor="#ececec">
+        	<table class="w640" style="margin:0 10px;" width="640" cellpadding="0" cellspacing="0" border="0">
+            	<tbody><tr><td class="w640" width="640" height="20"></td></tr>
+                
+            	<tr>
+                	<td class="w640" width="640">
+                        <table id="top-bar" class="w640" width="640" cellpadding="0" cellspacing="0" border="0" bgcolor="#89a55a">
+    <tbody><tr>
+        <td class="w15" width="15"></td>
+        <td class="w325" width="350" valign="middle" align="left">
+            <table class="w325" width="350" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w325" width="350" height="8"></td></tr>
+            </tbody></table>
+            <div class="header-content"><webversion>PMS Web Version</webversion><span class="hide">&nbsp;&nbsp; - &nbsp; <preferences lang="en">13.05</preferences>&nbsp;&nbsp;: :&nbsp; <unsubscribe>Server Updates</unsubscribe></span></div>
+            <table class="w325" width="350" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w325" width="350" height="8"></td></tr>
+            </tbody></table>
+        </td>
+        <td class="w30" width="30"></td>
+        <td class="w255" width="255" valign="middle" align="right">
+            <table class="w255" width="255" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w255" width="255" height="8"></td></tr>
+            </tbody></table>
+            <table cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+        
+<!--        <td valign="middle"><fblike><img src="https://img.createsend1.com/img/templatebuilder/like-glyph.png" border="0" width="8" height="14" alt="Facebook icon"=""></fblike></td>
+        <td width="3"></td>
+        <td valign="middle"><div class="header-content"><fblike>Like</fblike></div></td>
+        
+        
+        <td class="w10" width="10"></td>
+        <td valign="middle"><tweet><img src="https://img.createsend1.com/img/templatebuilder/tweet-glyph.png" border="0" width="17" height="13" alt="Twitter icon"=""></tweet></td>
+        <td width="3"></td>
+        <td valign="middle"><div class="header-content"><tweet>Tweet</tweet></div></td>
+        
+        
+        <td class="w10" width="10"></td>
+        <td valign="middle"><forwardtoafriend lang="en"><img src="https://img.createsend1.com/img/templatebuilder/forward-glyph.png" border="0" width="19" height="14" alt="Forward icon"=""></forwardtoafriend></td>
+        <td width="3"></td>
+        <td valign="middle"><div class="header-content"><forwardtoafriend lang="en">Forward</forwardtoafriend></div></td>-->
+        
+    </tr>
+</tbody></table>
+            <table class="w255" width="255" cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr><td class="w255" width="255" height="8"></td></tr>
+            </tbody></table>
+        </td>
+        <td class="w15" width="15"></td>
+    </tr>
+</tbody></table>
+                        
+                    </td>
+                </tr>
+                <tr>
+                <td id="header" class="w640" width="640" align="center" bgcolor="#89a55a">
+    
+    <table class="w640" width="640" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr><td class="w30" width="30"></td><td class="w580" width="580" height="30"></td><td class="w30" width="30"></td></tr>
+        <tr>
+            <td class="w30" width="30"></td>
+            <td class="w580" width="580">
+                <div align="center" id="headline">
+                    <p>
+                        <strong><singleline label="Title">Shiloah Investments Ltd.</singleline></strong>
+                    </p>
+                </div>
+            </td>
+            <td class="w30" width="30"></td>
+        </tr>
+    </tbody></table>
+    
+    
+</td>
+                </tr>
+                
+                <tr><td class="w640" width="640" height="30" bgcolor="#ffffff"></td></tr>
+                <tr id="simple-content-row"><td class="w640" width="640" bgcolor="#ffffff">
+    <table class="w640" width="640" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+            <td class="w30" width="30"></td>
+            <td class="w580" width="580">
+                <repeater><!-- Waiting List Status -->
+                     <layout label="Text only">
+                        <table class="w580" width="580" cellpadding="0" cellspacing="0" border="0">
+                            <tbody><tr>
+                                <td class="w580" width="580">
+                                    <p align="left" class="article-title"><singleline label="Title">New Tenancies in Process:</singleline></p>
+                                    <div align="left" class="article-content">
+                                        <multiline label="Description"> <table class="gridtable" cellspacing="0">
+                                                            <tr>MEGA PLAZA</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>MADISON INSURANCE COMPANY KENYA LIMITED</td>                                                                        
+                                                                <td>F5C 001-MP , [2891]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>MONARCH INSURANCE CO LTD</td>                                                                        
+                                                                <td>F4B 004-MP , [1100]</td>                                                                        
+                                                                <td>6 Months</td>
+                                                                <td>01-01-2016</td><td><font color="red">260 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>DAYTONS VALUERS LTD</td>                                                                        
+                                                                <td>FMD 017-MP , [250]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-02-2016</td><td><font color="red">229 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>4</td>
+                                                                <td>ECOBANK KENYA LIMITED</td>                                                                        
+                                                                <td>FGD 028-MP , [100]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-12-2015</td><td><font color="red">291 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>5</td>
+                                                                <td>BRITAM-AMERICAN INSURANCE COMPANY (KENYA) LIM</td>                                                                        
+                                                                <td>FGB 021-MP , [735]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2016</td><td><font color="red">16 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>6</td>
+                                                                <td>HUSSEIN ABOKA MBOYA</td>                                                                        
+                                                                <td>GBK 007-MP2 , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-11-2016</td><td><font color="green">45 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>7</td>
+                                                                <td>LORDS PARLOUR LIMITED</td>                                                                        
+                                                                <td>FMD 044-MP , [735]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-11-2016</td><td><font color="green">45 days left</font></td></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>MEGA CITY</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>MWANINGE CYBER TECH LIMITED</td>                                                                        
+                                                                <td>FGB 103-MC , [200]</td>                                                                        
+                                                                <td>1 year</td>
+                                                                <td>24-05-2013</td><td><font color="red">1212 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>MWANINGE CYBER TECH LIMITED  </td>                                                                        
+                                                                <td>FGB 103-MC , [200]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-05-2014</td><td><font color="red">870 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>VICTORIA KIMANI</td>                                                                        
+                                                                <td>FGB 025-MC , [700]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-03-2015</td><td><font color="red">566 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>4</td>
+                                                                <td>LOLWE CAR RENTAL & TOURS LTD</td>                                                                        
+                                                                <td>FMB 24A-MC , [120]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-03-2015</td><td><font color="red">566 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>5</td>
+                                                                <td>KCA UNIVERSITY</td>                                                                        
+                                                                <td>FMA 001-MC , [18000]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>6</td>
+                                                                <td>HISTOCYTE PATHOLOGY CONSULTANTS</td>                                                                        
+                                                                <td>FGB 053-MC , [350]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>15-05-2015</td><td><font color="red">491 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>7</td>
+                                                                <td>LEYISA ENTERPRISES LTD</td>                                                                        
+                                                                <td>FMB 053-MC , [100]</td>                                                                        
+                                                                <td>3 months</td>
+                                                                <td>15-07-2015</td><td><font color="red">430 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>8</td>
+                                                                <td>PHILIP MWANGI</td>                                                                        
+                                                                <td>FMB 026-MC , [270]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-02-2016</td><td><font color="red">229 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>9</td>
+                                                                <td>BARCLAYS BANK OF KENYA</td>                                                                        
+                                                                <td>FGB 006-MC , [216]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>10</td>
+                                                                <td>TONAKO HOLDINGS LTD</td>                                                                        
+                                                                <td>FGB 07A-MC , [700]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2016</td><td><font color="red">108 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>11</td>
+                                                                <td>SUPER BARGAINS HARDWARE KENYA LTD</td>                                                                        
+                                                                <td>FGD 002-MC , [7200]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2016</td><td><font color="red">108 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>12</td>
+                                                                <td>CORPORATE LEGENDS LIMITED</td>                                                                        
+                                                                <td>FGB 119-MC , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>13</td>
+                                                                <td>ABOK PATRICK RONALD </td>                                                                        
+                                                                <td>F2D 002-MC , [1160]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2016</td><td><font color="red">16 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>14</td>
+                                                                <td>EDWARD OTIENO OKUMU</td>                                                                        
+                                                                <td>GBK 020-MC , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>15</td>
+                                                                <td>LUBELL LIMITED</td>                                                                        
+                                                                <td>FGB 066-MC , [700]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2016</td><td><font color="red">16 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>16</td>
+                                                                <td>C-THIA WEAR</td>                                                                        
+                                                                <td>FGB 68&69-MC , [350]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>MEGA MALL</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>CAROLYNE WAHOME</td>                                                                        
+                                                                <td>FGA 019-MM , [50]</td>                                                                        
+                                                                <td>6 Months</td>
+                                                                <td>01-09-2015</td><td><font color="red">382 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>BLISS GVS HEALTHCARE</td>                                                                        
+                                                                <td>F1A 022-MM , [1552]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2015</td><td><font color="red">382 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>REGENCY CAPITAL LIMITED</td>                                                                        
+                                                                <td>F1A 026-MM , [388]</td>                                                                        
+                                                                <td>5 years</td>
+                                                                <td>01-03-2016</td><td><font color="red">200 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>4</td>
+                                                                <td>JUBILEE INSURANCE COMPANY LTD</td>                                                                        
+                                                                <td>F1A 005-MM , [776]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-03-2016</td><td><font color="red">200 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>5</td>
+                                                                <td>DIRECTLINE ASSURANCE COMPANY LIMITED</td>                                                                        
+                                                                <td>FMA 010-MM , [776]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>6</td>
+                                                                <td>PAN AFRICA LIFE ASSURANCE LIMITED</td>                                                                        
+                                                                <td>F1A 022-MM , [1552]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>7</td>
+                                                                <td>PAN AFRICA LIFE ASSURANCE LIMITED</td>                                                                        
+                                                                <td>F1A 022-MM , [1552]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>8</td>
+                                                                <td>INTERPRIME KENYA LIMITED</td>                                                                        
+                                                                <td>F1A 021-MM , [388]</td>                                                                        
+                                                                <td>5 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>9</td>
+                                                                <td>EDWIN JUMA OCHIENG</td>                                                                        
+                                                                <td>MAK 005-MM , [60]</td>                                                                        
+                                                                <td>5 years</td>
+                                                                <td>15-07-2016</td><td><font color="red">64 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>10</td>
+                                                                <td>JOSEPH AND STANELY ODUOR CONSULTANCY LTD</td>                                                                        
+                                                                <td>F1A 007-MM , [776]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>11</td>
+                                                                <td>FIRMBRIDGE LTD</td>                                                                        
+                                                                <td>F4A 004-MM , [622]</td>                                                                        
+                                                                <td>5 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>12</td>
+                                                                <td>NEXT STEP COMPANY LTD.</td>                                                                        
+                                                                <td>F1A 020-MM , [388]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>13</td>
+                                                                <td>GEORGE OMONDI OLWAL </td>                                                                        
+                                                                <td>GAK 006-MM , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>15-09-2016</td><td><font color="red">2 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>14</td>
+                                                                <td>FOUNTAIN CREDIT SERVICES LIMITED</td>                                                                        
+                                                                <td>F1A 021-MM , [388]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>RELIANCE CENTRE</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>SIR JOHN MENS WEAR </td>                                                                        
+                                                                <td>FGA 008-RC , [176]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-03-2016</td><td><font color="red">200 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>SUPER COSMETICS LIMITED</td>                                                                        
+                                                                <td>F1A 003-RC , [2350]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>BLOCK MEDIA LTD</td>                                                                        
+                                                                <td>F3A 006-RC , [680]</td>                                                                        
+                                                                <td>3 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>KATANGI</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>MEGA CENTRE</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>POSTAL CORPORATION OF KENYA</td>                                                                        
+                                                                <td>FGA 033-ME , [910]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-01-2013</td><td><font color="red">1355 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>FISHERIES AND FOOD AUTHORITY</td>                                                                        
+                                                                <td>FMA 020-ME , [1130]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-05-2015</td><td><font color="red">505 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>KISII UNIVERSITY COLLEGE</td>                                                                        
+                                                                <td>F1A 22A-ME , [4334]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2015</td><td><font color="red">382 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>4</td>
+                                                                <td>KISII UNIVERSITY</td>                                                                        
+                                                                <td>F1A 011-ME , [455]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>5</td>
+                                                                <td>I & M BANK</td>                                                                        
+                                                                <td>PGA 002-ME , [81]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2015</td><td><font color="red">413 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>6</td>
+                                                                <td>Maxwell Maroko</td>                                                                        
+                                                                <td>MAK 003-ME , [60]</td>                                                                        
+                                                                <td>3 years</td>
+                                                                <td>01-09-2015</td><td><font color="red">382 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>7</td>
+                                                                <td>METROPOLITAN SACCO</td>                                                                        
+                                                                <td>FWA 001-ME , [60]</td>                                                                        
+                                                                <td>1 year</td>
+                                                                <td>15-10-2015</td><td><font color="red">338 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>8</td>
+                                                                <td>KISII UNIVERSITY </td>                                                                        
+                                                                <td>F1A 032-ME , [2935]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-01-2016</td><td><font color="red">260 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>9</td>
+                                                                <td>JUBILEE INSURANCE COMPANY LTD</td>                                                                        
+                                                                <td>FMA 039-ME , [910]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-03-2016</td><td><font color="red">200 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>10</td>
+                                                                <td>ECO BANK KENYA LTD</td>                                                                        
+                                                                <td>FGA 2&3-ME , [1820]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>11</td>
+                                                                <td>CIC INSURANCE COMPANY </td>                                                                        
+                                                                <td>RTA 003-ME , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-03-2016</td><td><font color="red">200 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>12</td>
+                                                                <td>SMEP MICRO FINANCE BANK LTD</td>                                                                        
+                                                                <td>RTA 005-ME , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-04-2016</td><td><font color="red">169 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>13</td>
+                                                                <td>Horticulture and Agribusiness E.A Ltd</td>                                                                        
+                                                                <td>F1A 020-ME , [1130]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>14</td>
+                                                                <td>Afriwealth Graduate Institute</td>                                                                        
+                                                                <td>FMA 015-ME , [675]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>15</td>
+                                                                <td>Linkmass Limited</td>                                                                        
+                                                                <td>FGA 011-ME , [455]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>16</td>
+                                                                <td>PIONEER ASSURANCE</td>                                                                        
+                                                                <td>F1A 020-ME , [1130]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>17</td>
+                                                                <td>MS. PAMELA KATOYI WASIKE AND MR. DAVID SIMIYU</td>                                                                        
+                                                                <td>F1A 003-ME , [2344]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>18</td>
+                                                                <td>FINIDERED INVESTMENTS LIMITED</td>                                                                        
+                                                                <td>F1A 005-ME , [675]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>19</td>
+                                                                <td>DR. KISIANGANIS CLINIC</td>                                                                        
+                                                                <td>FMA 041-ME , [1130]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-09-2016</td><td><font color="red">16 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>20</td>
+                                                                <td>KRAND CONSULTANCY</td>                                                                        
+                                                                <td>F1A 017-ME , [455]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>21</td>
+                                                                <td>KISII UNIVERSITY </td>                                                                        
+                                                                <td>F1A 015-ME , [455]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>22</td>
+                                                                <td>KENYA COMMERCIAL BANK </td>                                                                        
+                                                                <td>PGA 002-ME , [81]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2015</td><td><font color="red">474 days passed</font></td></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>KISUMU BLOCK 8/5</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>KISUMU BLOCK 12/340</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>SHILOAH NAIROBI</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>CENTRAL STORE</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>KISUMU BLOCK - 12/340</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr> <table class="gridtable" cellspacing="0">
+                                                            <tr>MEGA PLAZA2</tr>
+                                                            <tr><th>S.No</th><th>Tenant</th><th>Shop</th><th>Commnce</th><th>Duration</th><th>Expiry</th></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>1</td>
+                                                                <td>EQUITY BANK LIMITED</td>                                                                        
+                                                                <td>FGA 001-MP2 , [6790]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-02-2016</td><td><font color="red">229 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>2</td>
+                                                                <td>MADISON INSURANCE COMPANY KENYA LTD</td>                                                                        
+                                                                <td>FMD 001-MP2 , [2450]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-06-2016</td><td><font color="red">108 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>3</td>
+                                                                <td>HARRY OWALLA</td>                                                                        
+                                                                <td>FBB 002-MP2 , [475]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-07-2016</td><td><font color="red">78 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>4</td>
+                                                                <td>CARL CARE SERVICE CENTRE</td>                                                                        
+                                                                <td>F1C 001-MP2 , [1700]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>5</td>
+                                                                <td>KENINDIA ASSURANCE CO. LTD</td>                                                                        
+                                                                <td>F2C 001-MP2 , [1700]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>6</td>
+                                                                <td>NAKUMATT HOLDINGS LIMITED</td>                                                                        
+                                                                <td>FMC 001-MP2 , [35785]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>7</td>
+                                                                <td>WINNAM CHEMIST</td>                                                                        
+                                                                <td>FBD 005-MP2 , [350]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-08-2016</td><td><font color="red">47 days passed</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>8</td>
+                                                                <td>CITY WALK LIMITED</td>                                                                        
+                                                                <td>FMB 001-MP2 , [1365]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-11-2016</td><td><font color="green">45 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>9</td>
+                                                                <td>SEAL HONEY LIMITED</td>                                                                        
+                                                                <td>FGB 003-MP2 , [2705]</td>                                                                        
+                                                                <td>6 years</td>
+                                                                <td>01-10-2016</td><td><font color="green">14 days left</font></td></tr>
+                                                            <tr style="font-size:11px;">
+                                                                <td>10</td>
+                                                                <td>TUTTI GELATI ITALIANI (K) LIMITED</td>                                                                        
+                                                                <td>GBK 001-MP2 , [60]</td>                                                                        
+                                                                <td>2 years</td>
+                                                                <td>01-09-2016</td><td><font color="red">16 days passed</font></td></tr></table>                                             
+                                        </multiline>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr><td class="w580" width="580" height="10"></td></tr>
+                        </tbody></table>
+                    </layout>                   
+                </repeater>
+            </td>
+            <td class="w30" width="30"></td>
+        </tr>
+    </tbody></table>
+</td></tr>
+    <tr><td class="w640" width="640" height="15" bgcolor="#ffffff"></td></tr>
+                <tr>
+                <td class="w640" width="640">
+                <table id="footer" class="w640" width="640" cellpadding="0" cellspacing="0" border="0" bgcolor="#618442">
+                    <tbody><tr><td class="w30" width="30"></td><td class="w580 h0" width="360" height="30"></td><td class="w0" width="60"></td><td class="w0" width="160"></td><td class="w30" width="30"></td></tr>
+                    <tr>
+                        <td class="w30" width="30"></td>
+                        <td class="w580" width="360" valign="top">
+                        <span class="hide"><p id="permission-reminder" align="left" class="footer-content-left"></p></span>
+                        <p align="left" class="footer-content-left"><preferences lang="en">All Rights reserved to  </preferences> | <unsubscribe>megapropertiesgroup.com &copy; 2013</unsubscribe></p>
+                        </td>
+                        <td class="hide w0" width="60"></td>
+                        <td class="hide w0" width="160" valign="top">
+                        <p id="street-address" align="right" class="footer-content-right"></p>
+                        </td>
+                        <td class="w30" width="30"></td>
+                    </tr>
+                    <tr><td class="w30" width="30"></td><td class="w580 h0" width="360" height="15"></td><td class="w0" width="60"></td><td class="w0" width="160"></td><td class="w30" width="30"></td></tr>
+                </tbody></table>
+        </td>
+                </tr>
+                <tr><td class="w640" width="640" height="60"></td></tr>
+            </tbody></table>
+        </td>
+	</tr>
+</tbody></table></body></html>

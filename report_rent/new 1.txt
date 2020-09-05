@@ -1,0 +1,11 @@
+select c.leasename, c.tradingname,c.pin, x.vatno, d.shopcode, sum(d.size) as size,ar.invoiceno,date_format(ar.fromdate,'%d-%m-%Y') as fromdate,date_format(ar.todate,'%d-%m-%Y') as todate,date_format(ar.createddatetime,'%d-%m-%Y') as createddatetime,ar.createdby,
+                ar.rent,round((ar.rent*14/100)) as rentvat,ar.sc,round((ar.sc*14/100)) as scvat,
+                ar.rent+round((ar.rent*14/100))+ar.sc+round((ar.sc*14/100)) as total from advance_rent ar
+                RIGHT OUTER JOIN group_tenant_det b on b.grouptenantmasid = ar.grouptenantmasid
+                RIGHT OUTER JOIN mas_tenant c on c.tenantmasid = b.tenantmasid
+                RIGHT OUTER JOIN mas_shop d on d.shopmasid = c.shopmasid
+                RIGHT OUTER JOIN mas_building e on e.buildingmasid = d.buildingmasid
+                RIGHT OUTER JOIN mas_company x on x.companymasid=e.companymasid
+                RIGHT OUTER JOIN mas_tenancyrefcode h on h.grouptenantmasid = ar.grouptenantmasid
+		        where c.companymasid = '$companymasid' and date_format(ar.createddatetime,'%Y-%m-%d') between '$invdtfrom' and '$invdtto' group by invoiceno 
+UNION 
