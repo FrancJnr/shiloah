@@ -15,12 +15,12 @@ $password="shiloah123"; */
 $username="root";
 $password="";
 
-$db_con=mysqli_connect($db_host,$username,$password);
-$connection_string=mysqli_select_db( $db_con, $db_name);
+$db_con=mysql_connect($db_host,$username,$password);
+$connection_string=mysql_select_db($db_name);
 
 // Connection
-mysqli_connect($db_host,$username,$password);
-mysqli_select_db( $db_con, $db_name);
+mysql_connect($db_host,$username,$password);
+mysql_select_db($db_name);
 date_default_timezone_set('Africa/Nairobi');
 $datetime = date('Y-m-d H:i:s'); // mysql date format
 function getIP() { 

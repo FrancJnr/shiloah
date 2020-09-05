@@ -324,7 +324,7 @@ if(isset($error)){
   <h1>PREMISES OCCUPATION FORM</h1>
 
 <p>CONFIRMATION OF THE STATE OF THE PREMISES AT THE TIME OF TAKING POSSESSION</p>
-<form action="index.php" method="post">
+<form action="premise_occupation_form.php" method="post">
 <table class="table">
     <thead>
       <tr>

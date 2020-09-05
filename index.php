@@ -46,11 +46,11 @@
 		function loadcompany()
 		{
 			$sql = "select companymasid, companyname from mas_company order by companymasid";
-			$result = mysqli_query($db_con, $sql);
+			$result = mysql_query($sql);
 			var_dump($result);
 			if($result != null)
 			{
-				while($row = mysqli_fetch_assoc($result))
+				while($row = mysql_fetch_assoc($result))
 				{
 					echo("<option value=".$row['companymasid'].">".$row['companyname']."</option>");		
 				}
